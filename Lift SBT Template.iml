@@ -1,0 +1,324 @@
+<module type="JAVA_MODULE" version="4">
+      <component name="FacetManager">
+        <facet type="scala" name="Scala">
+          <configuration>
+            <option value="Project" name="compilerLibraryLevel"></option>
+            <option value="buildScala" name="compilerLibraryName"></option>
+          </configuration>
+        </facet>
+        <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" name="web.xml"></deploymentDescriptor>
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/"></root>
+        </webroots>
+      </configuration>
+    </facet>
+      </component>
+      <component inherit-compiler-output="false" name="NewModuleRootManager">
+        <output url="file://$MODULE_DIR$/target/scala_2.8.0/classes"></output>
+        <output-test url="file://$MODULE_DIR$/target/scala_2.8.0/test-classes"></output-test>
+        <exclude-output></exclude-output>
+        <content url="file://$MODULE_DIR$">
+          <sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src/main/scala"></sourceFolder><sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src/main/resources"></sourceFolder>
+          <sourceFolder isTestSource="true" url="file://$MODULE_DIR$/src/test/scala"></sourceFolder><sourceFolder isTestSource="true" url="file://$MODULE_DIR$/src/test/resources"></sourceFolder>
+          <excludeFolder url="file://$MODULE_DIR$/target"></excludeFolder>
+        </content>
+        <orderEntry type="module-library" exported=" " scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/target/scala_2.8.0/test-resources"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/target/scala_2.8.0/resources"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry>
+        <orderEntry type="inheritedJdk"></orderEntry>
+        <orderEntry type="sourceFolder" forTests="false"></orderEntry>
+        <orderEntry level="project" type="library" name="buildScala"></orderEntry>
+        
+        <orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/lift-mapper_2.8.0-2.1-RC1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/lift-json_2.8.0-2.1-RC1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry type="module-library" exported=" " scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/test/specs_2.8.0-1.6.5.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry type="module-library" exported=" " scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/test/servlet-api-2.5-20081211.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/lift-common_2.8.0-2.1-RC1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/commons-codec-1.4.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/commons-fileupload-1.2.1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry type="module-library" exported=" " scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/test/jetty-6.1.22.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/slf4j-log4j12-1.5.11.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/mail-1.4.1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/lift-util_2.8.0-2.1-RC1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/derby-10.5.3.0_1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/log4j-1.2.14.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/paranamer-2.0.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/activation-1.1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/joda-time-1.6.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/lift-webkit_2.8.0-2.1-RC1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/slf4j-api-1.5.11.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry type="module-library" exported=" " scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/test/jetty-util-6.1.22.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/lift-actor_2.8.0-2.1-RC1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry type="module-library" exported=" " scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/test/junit-4.5.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry><orderEntry exported=" " type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib_managed/scala_2.8.0/compile/h2-1.2.138.jar!/"></root>
+        </CLASSES>
+        <JAVADOC>
+          
+        </JAVADOC>
+        <SOURCES>
+          
+        </SOURCES>
+      </library>
+    </orderEntry>
+      </component>
+    </module>

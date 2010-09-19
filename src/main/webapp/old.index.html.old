@@ -1,0 +1,21 @@
+<lift:surround with="default" at="content" eager_eval="true">
+<head>
+  <title>Web Application Starter Project</title>
+  <!--<script type="text/javascript" language="javascript" src="/invoicezero/invoicezero.nocache.js"></script>-->
+</head>
+
+  <h2>Welcome to your project!</h2>
+  <p>
+    <lift:helloWorld.howdy>
+      <span>Welcome to your Lift app at <b:time/></span>
+    </lift:helloWorld.howdy>
+  </p>
+  <p>
+	    <center>
+	    <h1>Invoice Zero</h1>
+	      <div id="invoiceZeroMain"></div>
+	    </center>
+	    <iframe src="javascript:''" id="__gwt_historyFrame" tabIndex='-1' style="position:absolute;width:0;height:0;border:0"></iframe>
+  </p>
+</lift:surround>
+
